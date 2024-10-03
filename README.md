@@ -1,8 +1,20 @@
-# React + Vite
+# Jammin Web-Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description
+-----------
+progress coming soon.
 
-Currently, two official plugins are available:
+Features
+--------
+* Users can search for songs by title.
+    * You can also search by attributes like artist's, name, genre
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Users can see information about each song like title, artist, and album for songs they queried.
+
+* Users can export their custom playlist to their personal Spotify account.
+
+Technologies Used
+-----------------
+This project is built with React (v18.3.1) for building the User Interface and Vite (v5.4.1) as the Build tool 
+for development phase. HTML and CSS for structure and styling. React uses JavaScript and JSX syntax for its 
+core syntax.
