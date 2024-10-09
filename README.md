@@ -15,6 +15,7 @@ Features
 
 Technologies Used
 -----------------
-This project is built with React (v18.3.1) for building the User Interface and Vite (v5.4.1) as the Build tool 
-for development phase. HTML and CSS for structure and styling. React uses JavaScript and JSX syntax for its 
-core syntax.
+* React JS
+* Vite (Build Tool)
+* HTML/CSS
+* JavaScript
